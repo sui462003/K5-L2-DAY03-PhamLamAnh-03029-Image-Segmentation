@@ -1,0 +1,61 @@
+{
+  "version": "0.4.43",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "road",
+      "text": "",
+      "points": [
+        [
+          113.3774834437086,
+          219.9337748344371
+        ],
+        [
+          507.01986754966896,
+          420.19867549668885
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "road",
+      "text": "",
+      "points": [
+        [
+          361.3245033112583,
+          323.24503311258286
+        ],
+        [
+          408.47682119205297,
+          382.05298013245033
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          217.21854304635758,
+          356.0927152317882
+        ],
+        [
+          255.89403973509934,
+          382.05298013245033
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "000000350023.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}
